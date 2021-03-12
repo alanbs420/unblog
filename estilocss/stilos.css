@@ -1,17 +1,17 @@
 body
 {
-    color:royalblue;
+    color:#333;
     text-align: center;
-    font-family: "Times New Roman";
-    font-size: 16px;
+    font-family: "Comic Sans";
+    font-size: 24px;
     margin: 0;
-    padding:0%;
+    padding: 2px;
 }
 #container
 {
-    width: 500%;
+    width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: right;
     border: 3px solid #DDD ;
     margin: 0 auto;
 }
